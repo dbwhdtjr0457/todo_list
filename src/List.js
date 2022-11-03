@@ -1,6 +1,5 @@
 import "./App.css";
 import axios from "axios";
-import { useState } from "react";
 import Details from "./Details";
 
 const List = function (props) {
@@ -10,7 +9,6 @@ const List = function (props) {
             .catch((error) => {
                 console.log(error.message);
             });
-        const filteredList = props.list.filter(item => item.id != id);
         const temp = [...props.list];
         temp.splice(index, 1);
         props.setList(temp);

@@ -50,6 +50,7 @@ function App() {
         <input type="text" value={input} onChange={e => setInput(e.target.value)} onKeyPress={e => { if (e.key === "Enter") { addToList(); } }} placeholder="입력 후 엔터 혹은 버튼 클릭" className="list_input" />
         <button onClick={() => { addToList(); }} className="add_button">추가</button>
         <div className='list'>
+        
           <List list={list} setList={setList} />
         </div>
       </div>
