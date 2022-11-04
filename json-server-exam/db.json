@@ -3,51 +3,58 @@
     {
       "title": "리스트 추가 기능",
       "completed": true,
-      "createdAt": "2022. 10. 14. 오후 12:11:24",
-      "endsAt": "2022-10-14",
-      "id": 1
+      "createdAt": "2022. 11. 3. 오후 4:27:00",
+      "endsAt": "2022-11-3",
+      "id": 8
     },
     {
       "title": "리스트 제거 기능",
       "completed": true,
-      "createdAt": "2022. 10. 14. 오후 12:11:26",
-      "endsAt": "2022-10-14",
-      "id": 2
+      "createdAt": "2022. 11. 3. 오후 4:27:21",
+      "endsAt": "2022-11-03",
+      "id": 9
     },
     {
       "title": "리스트 수정 기능",
-      "completed": false,
-      "createdAt": "2022. 10. 14. 오후 12:11:48",
-      "endsAt": "2022-10-14",
-      "id": 3
+      "completed": true,
+      "createdAt": "2022. 11. 3. 오후 4:27:22",
+      "endsAt": "2022-11-3",
+      "id": 10
     },
     {
       "title": "CSS 간단하게",
       "completed": true,
-      "createdAt": "2022. 10. 14. 오후 12:11:52",
-      "endsAt": "2022-10-14",
-      "id": 4
+      "createdAt": "2022. 11. 3. 오후 4:27:25",
+      "endsAt": "2022-11-3",
+      "id": 11
     },
     {
       "title": "json-server로 DB 구현",
       "completed": true,
-      "createdAt": "2022. 10. 14. 오후 12:12:37",
-      "endsAt": "2022-10-14",
-      "id": 5
+      "createdAt": "2022. 11. 3. 오후 4:27:29",
+      "endsAt": "2022-11-3",
+      "id": 12
     },
     {
       "title": "부가 기능",
       "completed": false,
-      "createdAt": "2022. 10. 14. 오후 12:12:56",
-      "endsAt": "2022-10-14",
-      "id": 6
+      "createdAt": "2022. 11. 3. 오후 4:27:30",
+      "endsAt": "2022-11-3",
+      "id": 13
     },
     {
       "title": "에러 처리",
+      "completed": true,
+      "createdAt": "2022. 11. 3. 오후 4:27:31",
+      "endsAt": "2022-11-3",
+      "id": 14
+    },
+    {
+      "title": "순서 변경 기능",
       "completed": false,
-      "createdAt": "2022. 10. 14. 오후 12:46:25",
-      "endsAt": "2022-10-14",
-      "id": 7
+      "createdAt": "2022. 11. 4. 오후 1:01:06",
+      "endsAt": "2022-11-4",
+      "id": 15
     }
   ]
 }
